@@ -15,5 +15,11 @@
         "leonsw/database": "~2.2.0",
         "leonsw/http": "^1.0",
         "leonsw/utils": "~2.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Demoplayer\\Permission\\": "src"
+        }
     }
+
 }
