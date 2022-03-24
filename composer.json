@@ -1,0 +1,19 @@
+{
+    "name": "demoplayer/permission",
+    "description": "one permission",
+    "type": "library",
+    "authors": [
+        {
+            "name": "demoplayer88",
+            "email": "498944307@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "hyperf/cache": "~2.2.0",
+        "hyperf/db-connection": "~2.2.0",
+        "leonsw/database": "~2.2.0",
+        "leonsw/http": "^1.0",
+        "leonsw/utils": "~2.2.0"
+    }
+}
